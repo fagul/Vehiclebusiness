@@ -10,7 +10,6 @@ import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.orm.hibernate3.HibernateTemplate;
 
-import com.mindtree.vehiclebusiness.dto.BookingDto;
 import com.mindtree.vehiclebusiness.entity.Booking;
 import com.mindtree.vehiclebusiness.exception.DaoException;
 
