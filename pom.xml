@@ -246,7 +246,7 @@
 					<buckets>
 						<property>
 							<name>vikesh-vehicle-rental/business</name>
-							<value>**/target/*.war;private</value>
+							<value>**/target/*.war;public-read</value>
 						</property>
 					</buckets>
 				</configuration>
