@@ -189,11 +189,11 @@
 		<!-- <version>5.1.24</version> -->
 		<!-- </dependency> -->
 
-		<dependency>
+<!-- 		<dependency>
     <groupId>com.microsoft.sqlserver</groupId>
     <artifactId>sqljdbc4-2.0</artifactId>
     <version>4-2.0</version>
-</dependency>
+</dependency> -->
 		<!-- Hibernate Core -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
