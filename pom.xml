@@ -191,8 +191,8 @@
 
 		<dependency>
     <groupId>com.microsoft.sqlserver</groupId>
-    <artifactId>sqljdbc4</artifactId>
-    <version>4.0</version>
+    <artifactId>sqljdbc4-2.0</artifactId>
+    <version>4-2.0</version>
 </dependency>
 		<!-- Hibernate Core -->
 		<dependency>
