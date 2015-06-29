@@ -262,7 +262,7 @@
 											<file>${project.basedir}/src/main/docker/start_up.sh</file>
 										</artifact>
 									</artifacts>
-									<nameAndTag>preetick/business:${project.version}</nameAndTag>
+									<nameAndTag>fagul/business:${project.version}</nameAndTag>
 									<!-- <registry>registry.hub.docker.com</registry> -->
 									<push>true</push>
 								</image>
@@ -279,7 +279,7 @@
 								<image>
 									<id>${project.artifactId}</id>
 									<tags>
-										<tag>preetick/business:latest</tag>
+										<tag>fagul/business:latest</tag>
 									</tags>
 									<push>true</push>
 								</image>
